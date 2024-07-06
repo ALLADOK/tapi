@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.MobileBankApiTestV6" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-06T17:06:52" hostname="LAPTOP-BT2E7V68" time="0.05">
+<testsuite name="ru.netology.rest.MobileBankApiTestV6" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-06T17:11:17" hostname="LAPTOP-BT2E7V68" time="0.037">
   <properties/>
-  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV6" time="0.05"/>
+  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV6" time="0.037"/>
   <system-out><![CDATA[Request method:	GET
 Request URI:	http://localhost:9999/api/v1/demo/accounts
 Proxy:			<none>
